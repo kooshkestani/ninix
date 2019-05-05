@@ -1,7 +1,7 @@
 <template>
   <div>
-<p>dddddd</p>
-{{test}}
+    <p>dddddd</p>
+    {{test}}
   </div>
 </template>
 <script>

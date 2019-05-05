@@ -2,6 +2,7 @@ import * as axios from 'axios'
 
 export default {
   state: {
+    state:'generate',
     phone: '',
     token: '',
     user: [],
